@@ -1,0 +1,19 @@
+{
+  "name": "coa-marketplace",
+  "owner": {
+    "name": "COA Team",
+    "email": "fefeman04@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "ppt-maker-plugin",
+      "source": "./plugins/ppt-maker-plugin",
+      "description": "순수 HTML/CSS/JS로 고품질 웹 프레젠테이션(PPT)을 자동 생성하는 플러그인. 다크 테마, 다양한 컬러 스킨, 키보드 네비게이션, 애니메이션 전환 효과 포함.",
+      "version": "1.0.0",
+      "author": {
+        "name": "COA Team"
+      },
+      "tags": ["ppt", "presentation", "slides", "web", "html"]
+    }
+  ]
+}
